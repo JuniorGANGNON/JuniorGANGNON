@@ -213,7 +213,7 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Made with 💜 by [Onésime GANGNON](https://github.com/Archange3553)**
+**Made with 💜 by [Onésime GANGNON](https://github.com/JuniorGANGNON)**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
