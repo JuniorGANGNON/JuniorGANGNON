@@ -91,11 +91,11 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 ### 📈 Activité Générale
 
-<a href="http://www.github.com/Archange3553">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archange3553&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" height="180"/>
+<a href="http://www.github.com/JuniorGANGNON">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorGANGNON&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" height="180"/>
 </a>
-<a href="https://github.com/Archange3553">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archange3553&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
+<a href="https://github.com/JuniorGANGNON">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGANGNON&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
 </a>
 
 ### 🔥 Streak Stats
