@@ -48,7 +48,7 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 |:---:|:---|
 | **Localisation** | 🇧🇯 Bénin |
 | **Email** | [sciencedata3553@gmail.com](mailto:sciencedata3553@gmail.com) |
-| **Collaboration** | Ouvert aux projets en data science, IA pour la santé, et analyse de données |
+| **Collaboration** | Ouvert aux projets en data science, IA pour la santé et autres domaines, et analyse de données |
 | **Passion** | Développement de jeux vidéo éducatifs pour démocratiser la tech |
 
 </div>
@@ -69,9 +69,6 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 📊 Visualisation
 
@@ -103,14 +100,14 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 ### 🔥 Streak Stats
 
-<a href="http://www.github.com/Archange3553">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archange3553&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
+<a href="http://www.github.com/JuniorGANGNON">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorGANGNON&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 ### 📉 Graphique de Contributions
 
-<a href="http://www.github.com/Archange3553">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archange3553&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/>
+<a href="http://www.github.com/JuniorGANGNON">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGANGNON&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/>
 </a>
 
 </div>
@@ -121,7 +118,7 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Archange3553&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=JuniorGANGNON&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -132,8 +129,7 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-onesime%232001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/onesime#2001)
-[![GitHub](https://img.shields.io/badge/GitHub-Archange3553-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Archange3553)
-[![YouTube](https://img.shields.io/badge/YouTube-DatascienceGameLab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DatascienceGameLab)
+[![GitHub](https://img.shields.io/badge/GitHub-JuniorGANGNON-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JuniorGANGNON)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sciencedata3553@gmail.com)
 
 </div>
@@ -144,7 +140,7 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 <div align="center">
 
-### 🎯 Objectifs 2025
+### 🎯 Objectifs 2025-2026
 
 </div>
 
@@ -161,8 +157,8 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 ### 🤝 Collaboration & Réseau
 - Contribuer à des projets open-source
-- Collaborer avec des équipes internationales
-- Partager mes connaissances via YouTube
+- Collaborer avec des équipes de tout horizon
+- Partager mes connaissances
 
 ### 📊 Impact & Innovation
 - Créer des solutions qui font la différence
