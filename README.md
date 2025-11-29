@@ -130,7 +130,7 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 [![Discord](https://img.shields.io/badge/Discord-onesime%232001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/onesime#2001)
 [![GitHub](https://img.shields.io/badge/GitHub-JuniorGANGNON-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JuniorGANGNON)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sciencedata3553@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorgangnon3553@gmail.com)
 
 </div>
 
