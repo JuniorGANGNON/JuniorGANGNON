@@ -4,8 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Scientist;IA+et+Analyse+de+Donn%C3%A9es;Sant%C3%A9+et+Technologie;Game+Developer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Archange3553&color=blueviolet&style=for-the-badge&label=VISITEURS)
-[![GitHub followers](https://img.shields.io/github/followers/Archange3553?style=for-the-badge&color=blueviolet)](https://github.com/Archange3553)
+![Profile Views](https://komarev.com/ghpvc/?username=JuniorGANGNON&color=blueviolet&style=for-the-badge&label=VISITEURS)
+[![GitHub followers](https://img.shields.io/github/followers/JuniorGANGNON?style=for-the-badge&color=blueviolet)](https://github.com/Archange3553)
 
 </div>
 
@@ -47,7 +47,7 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 | Infos | Détails |
 |:---:|:---|
 | **Localisation** | 🇧🇯 Bénin |
-| **Email** | [sciencedata3553@gmail.com](mailto:sciencedata3553@gmail.com) |
+| **Email** | [juniorgangnon3553@gmail.com](mailto:juniorgangnon3553@gmail.com) |
 | **Collaboration** | Ouvert aux projets en data science, IA pour la santé et autres domaines, et analyse de données |
 | **Passion** | Développement de jeux vidéo éducatifs pour démocratiser la tech |
 
